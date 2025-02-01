@@ -18,4 +18,4 @@ I selected 25 questions classified by the textbook [Vigasin et al. 2023] as “T
 
 The dataset I created is arranged as follows. The document collection consists of 8 textbooks, 50-60 chapter documents each, and 62 Wikipedia documents. There are 46,204 sentences in the document collection, which is comparable to the size of the collection of DUC 2005-2007 dataset documents [Dang 2007]. In total, there are 25 question-topics in our dataset, and 4 “Golden” summaries are offered for each. 
 
-This repository contains the generated summaries for each question and the term paper.
+This repository contains the generated summaries for each question, the tokenized dataset and the term paper.
